@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">ABI MP3 Player</string>
+    <string name="player_brand" translatable="false">ABI / MP3</string>
+    <string name="tagline">YOUR PODCAST. YOUR PACE.</string>
+    <string name="ready_to_listen">READY TO LISTEN</string>
+    <string name="add_first_podcast">Add your first podcast</string>
+    <string name="remaining_time">−%1$s left</string>
+    <string name="podcast_position">Position in podcast</string>
+    <string name="previous_file">Previous file</string>
+    <string name="skip_back">Skip back ten seconds</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="skip_forward">Skip forward ten seconds</string>
+    <string name="next_file">Next file</string>
+    <string name="playlist_count">PLAYLIST · %1$d</string>
+    <string name="add_files_button">+ Add files</string>
+    <string name="add_audio_files">Add audio files</string>
+    <string name="reorder_hint">Drag ≡ to change the order</string>
+    <string name="empty_playlist">Your next podcast starts here.\n\nAdd MP3 files from your phone.\nYour listening position is saved automatically.</string>
+    <string name="resume_footer">PICK UP WHERE YOU LEFT OFF</string>
+    <string name="file_unavailable">FILE UNAVAILABLE</string>
+    <string name="loading_podcast">LOADING PODCAST…</string>
+    <string name="playing_now">NOW PLAYING</string>
+    <string name="paused_position_saved">PAUSED · POSITION SAVED</string>
+    <string name="audio_file">Audio file</string>
+    <string name="add_file_failed">Could not add the file</string>
+    <string name="move_episode">Move %1$s</string>
+    <string name="move_up">Move up</string>
+    <string name="move_down">Move down</string>
+    <string name="selected_podcast">Selected podcast</string>
+    <string name="resume_from">Resume from %1$s</string>
+    <string name="ready_to_play">Ready to play</string>
+    <string name="remove_episode">Remove %1$s from the playlist</string>
+    <string name="playback_channel">Podcast playback</string>
+    <string name="file_open_failed">Cannot open the file. Add it again if it has been moved or deleted.</string>
+    <string name="notification_playing">Playing podcast</string>
+    <string name="notification_paused">Paused</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>

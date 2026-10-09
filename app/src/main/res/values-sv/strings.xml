@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">ABI MP3 Player</string>
+    <string name="player_brand" translatable="false">ABI / MP3</string>
+    <string name="tagline">DIN PODD. DITT TEMPO.</string>
+    <string name="ready_to_listen">REDO ATT LYSSNA</string>
+    <string name="add_first_podcast">Lägg till din första podd</string>
+    <string name="remaining_time">−%1$s kvar</string>
+    <string name="podcast_position">Position i podden</string>
+    <string name="previous_file">Föregående fil</string>
+    <string name="skip_back">Hoppa tio sekunder bakåt</string>
+    <string name="play">Spela</string>
+    <string name="pause">Pausa</string>
+    <string name="skip_forward">Hoppa tio sekunder framåt</string>
+    <string name="next_file">Nästa fil</string>
+    <string name="playlist_count">SPELLISTA · %1$d</string>
+    <string name="add_files_button">+ Lägg till</string>
+    <string name="add_audio_files">Lägg till ljudfiler</string>
+    <string name="reorder_hint">Dra i ≡ för att ändra ordningen</string>
+    <string name="empty_playlist">Din nästa podd börjar här.\n\nLägg till MP3-filer från telefonen.\nDin lyssningsposition sparas automatiskt.</string>
+    <string name="resume_footer">FORTSÄTT DÄR DU SLUTADE</string>
+    <string name="file_unavailable">FILEN ÄR OTILLGÄNGLIG</string>
+    <string name="loading_podcast">LADDAR PODD…</string>
+    <string name="playing_now">SPELAR NU</string>
+    <string name="paused_position_saved">PAUSAD · POSITION SPARAD</string>
+    <string name="audio_file">Ljudfil</string>
+    <string name="add_file_failed">Kunde inte lägga till filen</string>
+    <string name="move_episode">Flytta %1$s</string>
+    <string name="move_up">Flytta upp</string>
+    <string name="move_down">Flytta ner</string>
+    <string name="selected_podcast">Vald podd</string>
+    <string name="resume_from">Fortsätt från %1$s</string>
+    <string name="ready_to_play">Redo att spela</string>
+    <string name="remove_episode">Ta bort %1$s från spellistan</string>
+    <string name="playback_channel">Podduppspelning</string>
+    <string name="file_open_failed">Filen kan inte öppnas. Lägg till den igen om den har flyttats eller tagits bort.</string>
+    <string name="notification_playing">Spelar podd</string>
+    <string name="notification_paused">Pausad</string>
+    <string name="previous">Föregående</string>
+    <string name="next">Nästa</string>
+</resources>
